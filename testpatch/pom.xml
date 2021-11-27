@@ -6,7 +6,6 @@
 
     <groupId>org.example</groupId>
     <artifactId>testpatch</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
 
     <dependencies>
